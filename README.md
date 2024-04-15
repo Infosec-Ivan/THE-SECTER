@@ -16,7 +16,7 @@ apt install neofetch
   git clone https://github.com/IvanRiel/Password-protected-terminal-
   ```
 
--change directory 
+- change directory 
 ```
 cd Password-protected-terminal-
 ```
@@ -24,11 +24,11 @@ cd Password-protected-terminal-
 ```
 chmod +x script.sh
 ```
--Execute script
+- Execute script
 ```
 ./script.sh
 ```
--Enter yes
+- Enter yes
 ```
 yes
 ```
