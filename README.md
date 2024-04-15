@@ -17,12 +17,11 @@ apt install neofetch
 
 - Just, Clone this repository -
 ```
-git clone https://github.com/IvanRiel/Password-protected-terminal-
+git clone git clone https://github.com/IvanRiel/THE-SECTER.GIT-
 ```
-
-- change directory 
+- Go to THE SECTER directory 
 ```
-cd Password-protected-terminal-
+cd THE-SECTET
 ```
 - give permission to execute file
 ```
