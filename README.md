@@ -2,8 +2,8 @@
 This script is about to enhance yourself security in terminal as we know attacker sometimes acess your shell with this script if an attacker gain acess to terminal they can't execute command until the password enter
 
 
+<h3><p align="center">installation</p></h3>
 
-<b>commonds<b>
 
 
 apt install neofetch
