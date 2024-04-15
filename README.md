@@ -37,6 +37,7 @@ yes
 ```
 
 - Aftet yes read carefully 
-<b><h2>Setup your password</h2></b>
-
+```
+Setup your password
+```
 <h3>restart your terminal</h3>
