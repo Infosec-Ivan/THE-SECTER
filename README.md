@@ -36,5 +36,7 @@ chmod +x script.sh
 yes
 ```
 
+- Aftet yes read carefully 
+<b><h2>Setup your password</h2></b>
 
 <h3>restart your terminal</h3>
