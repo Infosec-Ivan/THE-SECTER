@@ -2,9 +2,11 @@
 <i>This script is about to enhance yourself security in terminal as we know attacker sometimes acess your shell with this script if an attacker gain acess to terminal they can't execute command until the password enter</i>
 
 
+
 <p align="center">
-  <img src="https://github.com/IvanRiel/Password-protected-terminal-/issues/new">
+  <img src="![Uploading IMG_20240415_123258.JPG…]()">
 </p>
+
 
 <b><h1><p align="center">installation</p></h1></b>
 
