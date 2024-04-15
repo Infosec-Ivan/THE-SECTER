@@ -6,6 +6,8 @@ This script is about to enhance yourself security in terminal as we know attacke
 <b>commonds<b>
 
 
+apt install neofetch
+
 
 git clone https://github.com/IvanRiel/Password-protected-terminal-.git
 
