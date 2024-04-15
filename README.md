@@ -16,3 +16,6 @@ chmod +x script.sh
 
 ./script.sh
 
+yes
+
+restart your terminal
