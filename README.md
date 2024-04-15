@@ -16,12 +16,20 @@ apt install neofetch
   git clone https://github.com/IvanRiel/Password-protected-terminal-
   ```
 
+-change directory 
+```
 cd Password-protected-terminal-
-
+```
+- give permission to execute file
+```
 chmod +x script.sh
-
+```
+-Execute script
+```
 ./script.sh
-
+```
+-Enter yes
+```
 yes
-
+```
 restart your terminal
