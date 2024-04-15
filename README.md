@@ -11,13 +11,8 @@ apt install neofetch
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/IvanRiel/Password-protected-terminal-
+  git clone https://github.com/IvanRiel/Password-protected-terminal-
   ```
-
-
-
-git clone https://github.com/IvanRiel/Password-protected-terminal-.git
-
 
 cd Password-protected-terminal-
 
