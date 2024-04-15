@@ -13,7 +13,7 @@ apt install neofetch
 
 - Just, Clone this repository -
   ```
-  git clone https://github.com/IvanRiel/Password-protected-terminal-
+git clone https://github.com/IvanRiel/Password-protected-terminal-
   ```
 
 - change directory 
@@ -32,4 +32,4 @@ chmod +x script.sh
 ```
 yes
 ```
-restart your terminal
+<h3>restart your terminal</h3>
