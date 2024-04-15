@@ -3,10 +3,6 @@
 
 
 
-<p align="center">
-  <img src=".github/misc/logo.png">
-</p>
-
 
 
 <b><h1><p align="center">installation</p></h1></b>
