@@ -7,7 +7,7 @@ This script is about to enhance yourself security in terminal as we know attacke
 
 
 
-git clone https://github.com/ElliotXAldersion/Password-protected-terminal-.git
+git clone https://github.com/IvanRiel/Password-protected-terminal-.git
 
 
 cd Password-protected-terminal-
