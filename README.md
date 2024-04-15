@@ -17,11 +17,11 @@ apt install neofetch
 
 - Just, Clone this repository -
 ```
-git clone https://github.com/IvanRiel/THE-SECTER.GIT
+git clone https://github.com/IvanRiel/THE-SECTER
 ```
 - Go to THE SECTER directory 
 ```
-cd THE-SECTET
+cd THE-SECTER
 ```
 - give permission to execute file
 ```
