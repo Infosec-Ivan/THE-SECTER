@@ -6,8 +6,10 @@
 
 
 
+- install neofetch
+```
 apt install neofetch
-
+```
 
 - Just, Clone this repository -
   ```
