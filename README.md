@@ -3,9 +3,7 @@
 
 
 
-<p align="center">
-  <img src="[IMG_20240415_123258](https://github.com/IvanRiel/Password-protected-terminal-/assets/166489209/0aee6a6c-72e7-45e5-93f6-98032a293b8a)">
-</p>
+IMG_20240415_123258](https://github.com/IvanRiel/Password-protected-terminal-/assets/166489209/0aee6a6c-72e7-45e5-93f6-98032a293b8a)
 
 
 <b><h1><p align="center">installation</p></h1></b>
