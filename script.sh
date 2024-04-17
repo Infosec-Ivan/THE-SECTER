@@ -1,4 +1,15 @@
+
 #!/bin/bash
+
+read -p "Do you want to install (yes/no)" lol
+if [[ $lol == "yes" ]]
+then
+echo -n "" > ~/../usr/etc/motd
+else
+echo $(exit)
+fi
+
+echo '#!/bin/bash
 
 # Check if password is set
 if [ -z $(cat ~/.password 2> /dev/null) ]; then
@@ -9,10 +20,9 @@ if [ -z $(cat ~/.password 2> /dev/null) ]; then
   exit
 fi
 
-# Function to handle Ctrl+C
+# Function to do nothing on Ctrl+C
 ctrl_c() {
-  echo
-  echo "Use 'exit' to quit the script."
+  :
 }
 
 # Trap Ctrl+C to prevent interruption
@@ -29,6 +39,7 @@ while true; do
   fi
 done
 
-# Clear the screen and display system info
 clear
-neofetch
+neofetch' >> ~/.bashrc
+
+echo "done, reset your terminal "
