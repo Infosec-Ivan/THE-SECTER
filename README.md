@@ -41,3 +41,7 @@ yes
 Setup your password
 ```
 <h3>restart your terminal</h3>
+
+## created by bash
+
+[![Bash][bash-shield]][bash-url]
