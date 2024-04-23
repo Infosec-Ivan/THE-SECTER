@@ -45,3 +45,6 @@ Setup your password
 ## created by bash
 
 [![Bash][bash-shield]][bash-url]
+
+[bash-shield]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
+[bash-url]: https://www.gnu.org/software/bash/
