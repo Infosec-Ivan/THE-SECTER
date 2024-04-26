@@ -52,7 +52,7 @@ Setup your password
 sudo apt-get install --reinstall ca-certificates
 ```
 
-this commond will fix that issue
+this commond will fix that issue first run this commond after than git clone
 
 
 
