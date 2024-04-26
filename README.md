@@ -42,6 +42,26 @@ Setup your password
 ```
 <h3>restart your terminal</h3>
 
+
+## If u get this error
+
+
+![IMG_3564](https://github.com/IvanRiel/THE-SECTER/assets/166489209/750e9e28-7dec-421f-8910-0e6e049f0913)
+
+```
+sudo apt-get install --reinstall ca-certificates
+```
+
+this commond will fix that issue
+
+
+
+
+
+
+
+
+
 ## created with bash
 
 [![Bash][bash-shield]][bash-url]
